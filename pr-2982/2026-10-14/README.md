@@ -38,7 +38,7 @@ Oppgaver uten dato finnes under kalenderen, slik at de ikke forsvinner fra arbei
 
 ### Opprett fra en kalenderdag
 
-Dagen forblir markert mens oppgaven skrives. Datoen fylles inn automatisk. Oppgavevinduet bruker den felles plasseringen øverst til høyre.
+Dagen forblir markert mens oppgaven skrives. Datoen fylles inn automatisk. Oppgavevinduet åpnes ved kalenderdagen og bytter automatisk mellom høyre og venstre side etter tilgjengelig plass.
 
 ![Opprett fra en kalenderdag](02-calendar-create.png)
 

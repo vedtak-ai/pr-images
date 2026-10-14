@@ -1,6 +1,6 @@
 # Arbeidsoppgaver – visuell gjennomgang
 
-40 skjermbilder av funksjonene i PR #2982, tatt 14. oktober 2026 i den faktiske Kommune-appen med syntetiske testdata. App-kode: `6103c5df655659bb276f4514e6f51dcfac984d57`. Standardbredde 1440 px; responsive eksempler ved 1600, 1100 og 390 px.
+40 skjermbilder av funksjonene i PR #2982, tatt 14. oktober 2026 i den faktiske Kommune-appen med syntetiske testdata. App-kode: `6103c5df655659bb276f4514e6f51dcfac984d57`. Listeoversikt og filterbildet er oppdatert etter kolonnerettingen i `de560397422d5f69ed748fe9601ad9263a6f31ac`. Standardbredde 1440 px; responsive eksempler ved 1600, 1100 og 390 px.
 
 Noen bakgrunnskort viser manglende tilleggsdata fordi testoppsettet ikke simulerer alle eksterne oppslag. Bildene dokumenterer grensesnittet, ikke live-integrasjoner eller produksjonsklarhet. Bildeutsnittet bruker en syntetisk bildestrøm. Ingen ekte saks- eller persondata er publisert.
 

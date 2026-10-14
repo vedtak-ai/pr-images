@@ -298,3 +298,5 @@ Oppgaven ble fullført 14. oktober 2026 og vises på denne dagen. Detaljene vise
 «Bare mine oppgaver» under Filtre kan kombineres med Fullførte. Fristkolonnen beholder sin opprinnelige betydning. Verifisert på `7b0366ffa`.
 
 ![Fullførte og eget ansvar](46-completed-own-filter.png)
+
+Review `1a08f2abc`: Egne oppgaver-filteret lukker nå åpne oppgaver utenfor utvalget. Kalenderen viser ikke lenger tomme listekolonner under kalenderen. Kalenderbildene er oppdatert mot siste produksjonsbygg.

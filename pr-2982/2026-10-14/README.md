@@ -94,7 +94,7 @@ Kommentarer vises på oppgaven. Endre frist oppdaterer datoen uten å endre oppg
 
 ### Fullføring med angremulighet
 
-Marker fullført viser bekreftelse etter lagring. Angre fullføring gjenoppretter den tidligere statusen.
+Fullføringer stables nederst til høyre, med egen Angre- og lukkeknapp. Varslene tones ut etter 10 sekunder; nedtellingen pauses ved peker eller tastaturfokus.
 
 ![Fullføring med angremulighet](08-completed-undo.png)
 

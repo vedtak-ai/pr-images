@@ -277,7 +277,7 @@ Kun fullførte oppgaver, også oppgaver uten frist.
 
 ### Fullførte i kalenderen
 
-Samme utvalg på arbeidsfristens dato. Oppgaver uten frist står under kalenderen. Visningen beholdes ved oppdatering og bytte mellom liste og kalender.
+Samme utvalg på fullføringsdatoen. Den opprinnelige arbeidsfristen står fortsatt i detaljene. Oppgaver uten kjent fullføringsdato står under kalenderen. Visningen beholdes ved oppdatering og bytte mellom liste og kalender.
 
 ![Fullførte i kalenderen](43-completed-calendar.png)
 
@@ -286,3 +286,9 @@ Samme utvalg på arbeidsfristens dato. Oppgaver uten frist står under kalendere
 Forkastede oppgaver holdes adskilt fra fullførte og kan gjenåpnes.
 
 ![Forkastede](44-discarded-list.png)
+
+### Fullføringsdato og opprinnelig frist
+
+Oppgaven ble fullført 14. oktober 2026 og vises på denne dagen. Detaljene viser fortsatt arbeidsfristen 1. januar 2025. Kalenderbildene over er oppdatert med denne oppførselen. Bare mine oppgaver kan velges under Filtre.
+
+![Fullføring og frist](45-completion-original-deadline.png)

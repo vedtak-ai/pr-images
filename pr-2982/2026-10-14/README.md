@@ -258,3 +258,9 @@ Hvis saksfristene ikke kan hentes, vises en forklaring samtidig som tilgjengelig
 
 ![Deler av listen kunne ikke lastes](25-partial-load-warning.png)
 
+
+### Feilmelding ved oppretting
+
+Feilen ligger fast over lagreknappene, uavhengig av skroll i skjemaet. Vist i et lavt vindu med syntetisk feilrespons.
+
+![Feilmelding ved oppretting](41-task-create-error.png)

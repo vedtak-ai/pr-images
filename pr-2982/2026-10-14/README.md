@@ -14,7 +14,7 @@ Oppgaver med og uten frist og saksfrister vises sammen. Personkortet lar deg for
 
 ### Filtre og sortering
 
-Velg oppgavetype, fristsortering og gruppering. Vis avsluttede henter frem ferdige og forkastede oppgaver; visningsknappene avgrenser til eget, ledig eller utsatt arbeid.
+Velg oppgavetype, fristsortering og gruppering. Dette eldre filterbildet er erstattet av egne visninger for Fullførte og Forkastede, dokumentert nedenfor.
 
 ![Filtre og sortering](28-list-filters.png)
 
@@ -264,3 +264,25 @@ Hvis saksfristene ikke kan hentes, vises en forklaring samtidig som tilgjengelig
 Feilen ligger fast over lagreknappene, uavhengig av skroll i skjemaet. Vist i et lavt vindu med syntetisk feilrespons.
 
 ![Feilmelding ved oppretting](41-task-create-error.png)
+
+## Oppdatert: Fullførte og Forkastede
+
+Tatt fra app-kode `2d09be8ef`. Disse bildene viser gjeldende visningsvalg og erstatter det tidligere valget «Vis avsluttede».
+
+### Fullførte i listen
+
+Kun fullførte oppgaver, også oppgaver uten frist.
+
+![Fullførte i listen](42-completed-list.png)
+
+### Fullførte i kalenderen
+
+Samme utvalg på arbeidsfristens dato. Oppgaver uten frist står under kalenderen. Visningen beholdes ved oppdatering og bytte mellom liste og kalender.
+
+![Fullførte i kalenderen](43-completed-calendar.png)
+
+### Forkastede i egen visning
+
+Forkastede oppgaver holdes adskilt fra fullførte og kan gjenåpnes.
+
+![Forkastede](44-discarded-list.png)

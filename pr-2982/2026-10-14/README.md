@@ -292,3 +292,9 @@ Forkastede oppgaver holdes adskilt fra fullførte og kan gjenåpnes.
 Oppgaven ble fullført 14. oktober 2026 og vises på denne dagen. Detaljene viser fortsatt arbeidsfristen 1. januar 2025. Kalenderbildene over er oppdatert med denne oppførselen. Bare mine oppgaver kan velges under Filtre.
 
 ![Fullføring og frist](45-completion-original-deadline.png)
+
+### Fullførte oppgaver med eget ansvar
+
+«Bare mine oppgaver» under Filtre kan kombineres med Fullførte. Fristkolonnen beholder sin opprinnelige betydning. Verifisert på `7b0366ffa`.
+
+![Fullførte og eget ansvar](46-completed-own-filter.png)

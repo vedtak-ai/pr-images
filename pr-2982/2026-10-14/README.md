@@ -144,17 +144,17 @@ Klikk på en lagret markering åpner riktig visning og fremhever målet. Fremhev
 
 ![Tilbake til markert innhold](14-reveal-reference.png)
 
-### Velg bildeutsnitt
+### Dra for å markere et område
 
-Bildeutsnitt kan navngis og beskjæres før det legges ved. Her brukes en syntetisk bildestrøm; nettleserens delingstillatelse er ikke avbildet.
+I samme markeringsmodus velger et klikk innhold, mens et drag tegner området som skal lagres som utsnitt. Den separate Bildeutsnitt-knappen og beskjæringsdialogen er fjernet.
 
-![Velg bildeutsnitt](15-image-crop.png)
+![Dra for å markere et område](15-image-crop.png)
 
-### Bildeutsnitt i oppgaven
+### Utsnitt i oppgaven
 
-Utsnittet ligger sammen med de øvrige markeringene og følger oppgaven.
+Utsnittet legges automatisk til sammen med øvrige markeringer. Klikk på lenken for å gå tilbake og fremheve området. Bildet her kommer fra en syntetisk bildestrøm; nettleserens fanedeling krever brukerens valg.
 
-![Bildeutsnitt i oppgaven](16-image-attached.png)
+![Utsnitt i oppgaven](16-image-attached.png)
 
 ## Oppgaver og varsler i toppmenyen
 

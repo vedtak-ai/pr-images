@@ -2,7 +2,7 @@
 
 40 skjermbilder av funksjonene i PR #2982, tatt 14. oktober 2026 i den faktiske Kommune-appen med syntetiske testdata. App-kode: `6103c5df655659bb276f4514e6f51dcfac984d57`. Listeoversikt og filterbildet er oppdatert etter kolonnerettingen i `de560397422d5f69ed748fe9601ad9263a6f31ac`. Standardbredde 1440 px; responsive eksempler ved 1600, 1100 og 390 px.
 
-Noen bakgrunnskort viser manglende tilleggsdata fordi testoppsettet ikke simulerer alle eksterne oppslag. Bildene dokumenterer grensesnittet, ikke live-integrasjoner eller produksjonsklarhet. Bildeutsnittet bruker en syntetisk bildestrøm. Ingen ekte saks- eller persondata er publisert.
+Noen bakgrunnskort viser manglende tilleggsdata fordi testoppsettet ikke simulerer alle eksterne oppslag. Bildene dokumenterer grensesnittet, ikke live-integrasjoner eller produksjonsklarhet. Utsnitt gjengis fra appens innhold uten skjermdeling. Ingen ekte saks- eller persondata er publisert.
 
 ## Liste, kalender og saksfrister
 
@@ -152,7 +152,7 @@ I samme markeringsmodus velger et klikk innhold, mens et drag tegner området so
 
 ### Utsnitt i oppgaven
 
-Utsnittet legges automatisk til sammen med øvrige markeringer. Klikk på lenken for å gå tilbake og fremheve området. Bildet her kommer fra en syntetisk bildestrøm; nettleserens fanedeling krever brukerens valg.
+Utsnittet gjengis direkte fra appens innhold, uten skjermdeling eller tillatelsesdialog. Klikk på lenken for å gå tilbake og fremheve området. Bildet viser faktisk tekst fra det valgte området med syntetiske saksdata.
 
 ![Utsnitt i oppgaven](16-image-attached.png)
 
